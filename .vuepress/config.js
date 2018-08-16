@@ -2,6 +2,7 @@ module.exports = {
     title: 'indicadores',
     port: '9001',
     dest: 'docs',
+    base: '/indicadores/',
   themeConfig: {
     sidebar: [
       'indicadores',
