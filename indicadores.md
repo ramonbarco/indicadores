@@ -50,8 +50,6 @@
 
 ## PRESUPUESTO
 
-### Evolución del presupuesto para I+D+i por fuente del Tesoro Nacional
-
 | Indicadores                                                           | Ficha metodológica                                                                    |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | Evolución del Presupuesto para I+D+i por fuente del Tesoro Nacional   | [Fuente del indicador](./presupuesto-i-d-i-tesoro-nacional.docx)                      |
