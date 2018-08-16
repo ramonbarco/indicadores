@@ -4,8 +4,8 @@
 
 | Indicadores                                                                          | Ficha metodológica                                                                                        |
 | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
-| 1. Investigadores UNSAM (útlimos 5 años)                                             | [Fuente del indicador](</indicadores/attachments/InvestigadoresUnsam(ultimos5anos).pdf>)                  |
-| 2.Docentes investigadores categorizados                                              | <a source="/indicadores/attachments/DocentesInvestigadoresCategorizados.docx"></a>                        |
+| 1. Investigadores UNSAM (útlimos 5 años)                                             | [Fuente del indicador](<./InvestigadoresUnsam(ultimos5anos).pdf>)                                         |
+| 2.Docentes investigadores categorizados                                              | [docentes](./DocentesInvestigadoresCategorizados.docx)                                                    |
 | 3. Becarios (últimos 5 años)                                                         | [Fuente del indicador](</BecariosUnsam(ultimos5anos).pdf>)                                                |
 | 4. Becarios Posdoctorales                                                            | [Fuente del indicador](/indicadores/attachments/becariosposdoctorales.pdf)                                |
 | sarasaloca                                                                           | [Fuente del indicador](</cpa(ultimos5anos).pdf>)                                                          |
@@ -40,7 +40,14 @@
 
 ## PRODUCCIÓN CIENTÍFICA
 
-Artículos y Citaciones cantidad total, por UA y área de conocimento
+| Indicadores | Ficha metodológica |
+| ----------- | ------------------ |
+
+
+| Artículos totales |[Fuente del indicador]|
+| Artículos por unidad académica |[Fuente del indicador]|
+| Artículos por área de conocimiento |[Fuente del indicador]|
+| Citaciones |Fuente del indicador] cantidad total, por UA y área de conocimento
 
 ## PRESUPUESTO
 
