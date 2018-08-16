@@ -4,7 +4,7 @@
 |Indicadores|Ficha metodológica|
 |----------|----------------- |
 | 1. Investigadores UNSAM (útlimos 5 años)| [Fuente del indicador](/InvestigadoresUnsam(ultimos5anos).pdf)|
-| 2.Docentes investigadores categorizados| [Fuente del indicador](/attachments/DocentesInvestigadoresCategorizados.docx)|
+| 2.Docentes investigadores categorizados| [Fuente del indicador](/indicadores/attachments/DocentesInvestigadoresCategorizados.docx)|
 | 3. Becarios (últimos 5 años)| [Fuente del indicador](/BecariosUnsam(ultimos5anos).pdf)|
 | 4. Becarios Posdoctorales|[Fuente del indicador](/becariosposdoctorales.pdf)|
 |sarasaloca |[Fuente del indicador](/cpa(ultimos5anos).pdf)|
