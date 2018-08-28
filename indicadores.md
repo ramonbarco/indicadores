@@ -7,7 +7,7 @@
 | 1. Investigadores UNSAM (útlimos 5 años)                                             | [Fuente del indicador](<./InvestigadoresUnsam(ultimos5anos).pdf>)                  |
 | 2. Docentes investigadores categorizados                                             | [Fuente del indicador](./DocentesInvestigadoresCategorizados.pdf)                  |
 | 3. Becarios (últimos 5 años)                                                         | [Fuente del indicador](<./BecariosUnsam(ultimos5anos).pdf>)                        |
-| 4. Becarios Posdoctorales                                                            | [Fuente del indicador](./becariosposdoctorales.docx)                               |
+| 4. Becarios Posdoctorales                                                            | [Fuente del indicador](./becariosposdoctorales.pdf)                                |
 | Personal de apoyo (últimos 5 años)                                                   | [Fuente del indicador](<./cpa(ultimos5anos).pdf>)                                  |
 | 5. Investigadores según cargo y dedicación                                           | [Fuente del indicador](./investigadoresseguncargoydedicacion.pdf)                  |
 | 6. Distribución de Investigadoers, becarios y CPA, total según UA (unidad académica) | [Fuente del indicador](./distribuciondeinvestigadoresbecariosycpatotalsegunua.pdf) |
@@ -61,8 +61,8 @@
 
 ## CUERPO DOCENTE - INVESTIGACIÓN
 
-| Indicadores                                                                                                             | Ficha metodológica                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| % de docentes en el Programa de Incentivos a Docentes Investigadores según categoría                                    | [Fuente del indicador](./cantidad-docentes-programa-incentivos-por-categoria.docx)                               |
-| % de docentes investigadores del CONICET y otros organismos científicos con lugar de trabajo en UNSAM con cargo docente | [Fuente del indicador](./docente-investigadores-conicet-otros-con-lugar-de-trabajo-unsam-con-cargo-docente.docx) |
-| % de docentes becarios del CONICET y otros organismos científicos con lugar de trabajo en UNSAM con cargo docente       | [Fuente del indicador](./docente-becarios-conicet-otros-con-lugar-de-trabajo-unsam-con-cargo-docente.docx)       |
+| Indicadores                                                                                                             | Ficha metodológica                                                                                              |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| % de docentes en el Programa de Incentivos a Docentes Investigadores según categoría                                    | [Fuente del indicador](./cantidad-docentes-programa-incentivos-por-categoria.pdf)                               |
+| % de docentes investigadores del CONICET y otros organismos científicos con lugar de trabajo en UNSAM con cargo docente | [Fuente del indicador](./docente-investigadores-conicet-otros-con-lugar-de-trabajo-unsam-con-cargo-docente.pdf) |
+| % de docentes becarios del CONICET y otros organismos científicos con lugar de trabajo en UNSAM con cargo docente       | [Fuente del indicador](./docente-becarios-conicet-otros-con-lugar-de-trabajo-unsam-con-cargo-docente.pdf)       |
