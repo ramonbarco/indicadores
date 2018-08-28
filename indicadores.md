@@ -40,24 +40,24 @@
 
 ## PUBLICACIONES CIENTÍFICAS
 
-| Indicadores                        | Ficha metodológica                                                 |
-| ---------------------------------- | ------------------------------------------------------------------ |
-| Artículos totales                  | [Fuente del indicador](./articulostotal.docx)                      |
-| Artículos por unidad académica     | [Fuente del indicador](./articulos-por-unidad-academica.docx)      |
-| Artículos por área de conocimiento | [Fuente del indicador](./articulos-por-area-de-conocimiento.docx)  |
-| Citaciones por unidad académica    | [Fuente del indicador](./citaciones-por-unidad-academica.docx)     |
-| Citaciones por unidad académica    | [Fuente del indicador](./citaciones-por-area-de-conocimiento.docx) |
+| Indicadores                        | Ficha metodológica                                                |
+| ---------------------------------- | ----------------------------------------------------------------- |
+| Artículos totales                  | [Fuente del indicador](./articulostotal.pdf)                      |
+| Artículos por unidad académica     | [Fuente del indicador](./articulos-por-unidad-academica.pdf)      |
+| Artículos por área de conocimiento | [Fuente del indicador](./articulos-por-area-de-conocimiento.pdf)  |
+| Citaciones por unidad académica    | [Fuente del indicador](./citaciones-por-unidad-academica.pdf)     |
+| Citaciones por unidad académica    | [Fuente del indicador](./citaciones-por-area-de-conocimiento.pdf) |
 
 ## PRESUPUESTO
 
-| Indicadores                                                           | Ficha metodológica                                                                    |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Evolución del Presupuesto para I+D+i por fuente del Tesoro Nacional   | [Fuente del indicador](./presupuesto-i-d-i-tesoro-nacional.docx)                      |
-| Evolución del Presupuesto para I+D+i según fuente de financiamiento   | [Fuente del indicador](./presupuesto-i-d-i-fuente-financiamiento.docx)                |
-| Distribución del gasto de ACyT según fuente de financiamiento         | [Fuente del indicador](./distribucion-gasto-acyt-fuente-financiamiento.docx)          |
-| Distribución del gasto de ACyT según personal                         | [Fuente del indicador](./distribucion-gasto-acyt-presonal.docx)                       |
-| Distribución del gasto de ACyT según bienes y servicios no personales | [Fuente del indicador](./distribucion-gasto-acyt-bienes-servicios-no-personales.docx) |
-| Distribución del gasto de ACyT según infraestructura y equipamiento   | [Fuente del indicador](./distribucion-gasto-acyt-infraestructurta-equipamiento.docx)  |
+| Indicadores                                                           | Ficha metodológica                                                                   |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Evolución del Presupuesto para I+D+i por fuente del Tesoro Nacional   | [Fuente del indicador](./presupuesto-i-d-i-tesoro-nacional.pdf)                      |
+| Evolución del Presupuesto para I+D+i según fuente de financiamiento   | [Fuente del indicador](./presupuesto-i-d-i-fuente-financiamiento.pdf)                |
+| Distribución del gasto de ACyT según fuente de financiamiento         | [Fuente del indicador](./distribucion-gasto-acyt-fuente-financiamiento.pdf)          |
+| Distribución del gasto de ACyT según personal                         | [Fuente del indicador](./distribucion-gasto-acyt-presonal.pdf)                       |
+| Distribución del gasto de ACyT según bienes y servicios no personales | [Fuente del indicador](./distribucion-gasto-acyt-bienes-servicios-no-personales.pdf) |
+| Distribución del gasto de ACyT según infraestructura y equipamiento   | [Fuente del indicador](./distribucion-gasto-acyt-infraestructurta-equipamiento.pdf)  |
 
 ## CUERPO DOCENTE - INVESTIGACIÓN
 
