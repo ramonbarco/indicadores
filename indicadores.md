@@ -5,10 +5,9 @@
 | Indicadores                                                                          | Ficha metodológica                                                                 |
 | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
 | 1. Investigadores UNSAM (útlimos 5 años)                                             | [Fuente del indicador](<./InvestigadoresUnsam(ultimos5anos).pdf>)                  |
-| 2. Docentes investigadores categorizados                                             | [Fuente del indicador](./DocentesInvestigadoresCategorizados.pdf)                  |
-| 3. Becarios (últimos 5 años)                                                         | [Fuente del indicador](<./BecariosUnsam(ultimos5anos).pdf>)                        |
+| 2. Docentes investigadores categorizados                                             | [Fuente del indicador](./docentes-investigadores-categorizados.pdf)                |
+| 3. Becarios (últimos 5 años)                                                         | [Fuente del indicador](<./becariosUnsam(ultimos5anos).pdf>)                        |
 | 4. Becarios Posdoctorales                                                            | [Fuente del indicador](./becariosposdoctorales.pdf)                                |
-| Personal de apoyo (últimos 5 años)                                                   | [Fuente del indicador](<./cpa(ultimos5anos).pdf>)                                  |
 | 5. Investigadores según cargo y dedicación                                           | [Fuente del indicador](./investigadoresseguncargoydedicacion.pdf)                  |
 | 6. Distribución de Investigadoers, becarios y CPA, total según UA (unidad académica) | [Fuente del indicador](./distribuciondeinvestigadoresbecariosycpatotalsegunua.pdf) |
 
@@ -30,23 +29,23 @@
 
 ## PROYECTOS DE INVESTIGACIÓN
 
-| Indicadores                                                              | Ficha metodológica                                   |
-| ------------------------------------------------------------------------ | ---------------------------------------------------- |
-| 1) Financiados por UNSAM                                                 | [Fuente del indicador](./financiadosporunsam.pdf)    |
-| 2) Cantidad total y por Unidad Académica                                 | [Fuente del indicador](./proyectostotalesyporua.pdf) |
-| 3) Financiados por CONICET                                               | [Fuente del indicador](./financiadosporconicet.pdf)  |
-| 4) Financiados por ANCyT                                                 | [Fuente del indicador](./financiadosporagencia.pdf)  |
-| 5) Financiados por organismos provinciales, nacionales e internacionales | [Fuente del indicador](./financiadosporopnei.pdf)    |
+| Indicadores                                                              | Ficha metodológica                                                                      |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| 1) Financiados por UNSAM                                                 | [Fuente del indicador](./proyectosdeinvestigaciónfinanciadosporunsam.pdf)               |
+| 2) Cantidad total y por Unidad Académica                                 | [Fuente del indicador](./publicaciones-por-unidad-academica.pdf)                        |
+| 3) Financiados por CONICET                                               | [Fuente del indicador](./proyectosdeinvestigaciónfinanciadosporconicetancyptyotros.pdf) |
+| 4) Financiados por ANCyT                                                 | [Fuente del indicador](./financiadosporagencia.pdf)                                     |
+| 5) Financiados por organismos provinciales, nacionales e internacionales | [Fuente del indicador](./financiadosporopnei.pdf)                                       |
 
 ## PUBLICACIONES CIENTÍFICAS
 
 | Indicadores                        | Ficha metodológica                                                |
 | ---------------------------------- | ----------------------------------------------------------------- |
-| Artículos totales                  | [Fuente del indicador](./articulostotal.pdf)                      |
+| Artículos totales                  | [Fuente del indicador](./Articulostotales.pdf)                    |
 | Artículos por unidad académica     | [Fuente del indicador](./articulos-por-unidad-academica.pdf)      |
 | Artículos por área de conocimiento | [Fuente del indicador](./articulos-por-area-de-conocimiento.pdf)  |
 | Citaciones por unidad académica    | [Fuente del indicador](./citaciones-por-unidad-academica.pdf)     |
-| Citaciones por unidad académica    | [Fuente del indicador](./citaciones-por-area-de-conocimiento.pdf) |
+| Citaciones por área de conocimiento | [Fuente del indicador](./citaciones-por-area-de-conocimiento.pdf)|
 
 ## PRESUPUESTO
 
