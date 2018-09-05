@@ -5,8 +5,7 @@ module.exports = {
     base: '/indicadores/',
   themeConfig: {
     sidebar: [
-      'indicadores',
-      'datos'
+      'indicadores'
     ],
     nav: [
       { text: 'Home', link: '/' },
