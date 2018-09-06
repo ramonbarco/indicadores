@@ -1,0 +1,32 @@
+.rojo {
+  width: 15px;
+  height: 15px;
+  background-color: red;
+  display: inline-block;
+  border: 1px solid #000;
+  margin-right: 6px;
+}
+.verde {
+  width: 15px;
+  height: 15px;
+  background-color: green;
+  display: inline-block;
+  border: 1px solid #000;
+  margin-right: 6px;
+}
+.amarillo {
+  width: 15px;
+  height: 15px;
+  background-color: yellow;
+  display: inline-block;
+  border: 1px solid #000;
+  margin-right: 6px;
+}
+th {
+  width: 100%;
+}
+.content:not(.custom) {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 2rem 2.5rem;
+}

@@ -1,0 +1,30 @@
+{
+  "name": "indicadores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "README.md",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramonbarco/indicadores.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramonbarco/indicadores/issues"
+  },
+  "homepage": "https://github.com/ramonbarco/indicadores#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.2"
+  },
+  "dependencies": {
+    "vue-google-charts": "^0.3.1"
+  }
+}

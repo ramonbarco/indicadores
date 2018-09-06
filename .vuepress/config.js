@@ -1,12 +1,10 @@
 module.exports = {
-    title: 'indicadores',
-    port: '9001',
-    dest: 'docs',
-    base: '/indicadores/',
+  title: 'indicadores',
+  port: '9001',
+  dest: 'docs',
+  base: '/indicadores/',
   themeConfig: {
-    sidebar: [
-      'indicadores'
-    ],
+    sidebar: ['indicadores'],
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Github', link: 'https://github.com/ramonbarco/indicadores' }
