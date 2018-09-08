@@ -25,8 +25,9 @@ export const data = {
   opcionesinvestigadoressegundedicacion: {
     title: 'Investigadores según cargo',
     colors: ['#1b9e77', '#d95f02', '#7570b3'],
-    height: 150,
-    width: 450
+    height: 350,
+    width: 450,
+    is3D: true
   },
   distribucionDeInvestigadoresBecariosyCpaTotalSegunUa: [
     ['UA', 'Investigadores', 'Becarios', 'CPA'],
@@ -54,10 +55,10 @@ export const data = {
   opcionesDistribucionDeInvestigadoresBecariosyCpaTotalSegunUa: {
     title: 'Distribución Investigadores,becarios y CPA por Unidad Académica',
     colors: ['#1b9e77', '#d95f02', '#7570b3'],
-    height: 300,
-    width: 500,
-    fontSize: 8.2,
-    bar: { groupWidth: '35%' },
+    height: 400,
+    width: 600,
+    fontSize: 6,
+    bar: { groupWidth: '75%' },
     isStacked: true
   }
 }
