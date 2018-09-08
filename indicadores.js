@@ -29,17 +29,34 @@ export const data = {
     width: 450
   },
   distribucionDeInvestigadoresBecariosyCpaTotalSegunUa: [
-    ['UA', 'Investigadores', 'Becarios'],
-    ['ECYT', 300, 20],
-    ['IIB', 150, 5],
-    ['EPYG', 110, 100],
-    ['EH', 120, 10]
+    ['UA', 'Investigadores', 'Becarios', 'CPA'],
+    ['ECYT', 81, 38, 1],
+    ['EEYN', 7, 0, 0],
+    ['EH', 57, 41, 0],
+    ['EPYG', 27, 25, 0],
+    ['IDAES', 85, 95, 1],
+    ['IECJ', 0, 0, 0],
+    ['INS', 6, 13, 0],
+    ['IA', 0, 0, 0],
+    ['IAMK', 5, 0, 0],
+    ['3IA', 33, 27, 1],
+    ['IDB', 0, 1, 0],
+    ['UIS', 0, 0, 0],
+    ['INCALIN', 0, 0, 0],
+    ['IIB INTECH', 101, 103, 23],
+    ['ITS', 1, 0, 0],
+    ['ICRM', 2, 1, 0],
+    ['IIPC', 15, 3, 4],
+    ['IT', 0, 0, 0],
+    ['ITEDA', 6, 15, 4],
+    ['COLOMB', 0, 0, 0]
   ],
   opcionesDistribucionDeInvestigadoresBecariosyCpaTotalSegunUa: {
     title: 'Distribución Investigadores,becarios y CPA por Unidad Académica',
     colors: ['#1b9e77', '#d95f02', '#7570b3'],
-    height: 150,
-    width: 450,
+    height: 300,
+    width: 500,
+    fontSize: 8.2,
     bar: { groupWidth: '35%' },
     isStacked: true
   }
