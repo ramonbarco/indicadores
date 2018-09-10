@@ -1,7 +1,7 @@
 export const data = {
   PersonaldeInvestigacion: [['Categoría', 'Personas'], ['1', 300], ['2', 150]],
   categorizados: [
-    ['Categoría', 'Investigadores'],
+    ['Categoría', 'Investigadores por Categoría del Programa'],
     ['I', 300],
     ['II', 150],
     ['III', 110],
@@ -57,8 +57,46 @@ export const data = {
     colors: ['#1b9e77', '#d95f02', '#7570b3'],
     height: 400,
     width: 600,
-    fontSize: 6,
+    fontSize: 8.5,
     bar: { groupWidth: '75%' },
+    isStacked: true
+  },
+  InvestigadoresPorGeneroyEdad: {
+    cols: [
+      { id: 'Franja etaria', label: 'Franja etaria', type: 'string' },
+      { id: 'Fememnino', label: 'Fememnino', type: 'number' },
+      { id: 'Masculino', label: 'Masculino', type: 'number' }
+    ],
+    rows: [
+      {
+        c: [{ v: 25, f: 'menores 25' }, { v: 0, f: '0' }, { v: 0, f: '0' }]
+      },
+      {
+        c: [{ v: 34, f: '25-34' }, { v: -9, f: '9' }, { v: 6, f: '5' }]
+      },
+      {
+        c: [{ v: 44, f: '35-44' }, { v: -90, f: '90' }, { v: 80, f: '80' }]
+      },
+      {
+        c: [{ v: 54, f: '45-54' }, { v: -14, f: '14' }, { v: 27, f: '27' }]
+      },
+      {
+        c: [{ v: 64, f: '55-64' }, { v: -61, f: '61' }, { v: 59, f: '59' }]
+      },
+      {
+        c: [
+          { v: 65, f: 'mayor de 65' },
+          { v: -30, f: '30' },
+          { v: 50, f: '50' }
+        ]
+      }
+    ]
+  },
+  opcionesInvestigadoresPorGeneroyEdad: {
+    title: 'Investigadores por género y edad',
+    colors: ['#1b9e77', '#d95f02', '#7570b3'],
+    height: 400,
+    width: 600,
     isStacked: true
   }
 }
