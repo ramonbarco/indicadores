@@ -54,7 +54,7 @@ export const data = {
   ],
   opcionesDistribucionDeInvestigadoresBecariosyCpaTotalSegunUa: {
     title: 'Distribución Investigadores,becarios y CPA por Unidad Académica',
-    colors: ['#1b9e77', '#d95f02', '#7570b3'],
+    colors: ['#4288f7', '#ef0712', '#f2ee09'],
     height: 400,
     width: 600,
     fontSize: 8.5,
@@ -94,7 +94,7 @@ export const data = {
   },
   opcionesInvestigadoresPorGeneroyEdad: {
     title: 'Investigadores por género y edad',
-    colors: ['#1b9e77', '#d95f02', '#7570b3'],
+    colors: ['#4288f7', '#ef0712', '#f2ee09'],
     height: 400,
     width: 600,
     isStacked: true
@@ -124,10 +124,26 @@ export const data = {
   ],
   opcionesarticulosenrevistasinternacionalesconreferatototalesyporunidadacademica: {
     title: 'Artículos en revistas internacionales con referato',
-    colors: ['#4b8463'],
+    colors: ['#4288f7'],
     height: 600,
     width: 800,
     fontSize: 8.5,
     bar: { groupWidth: '80%' }
+  },
+  investigadoresconicetsegungenero: [
+    ['Investigadores CONICET', 'Cantidad'],
+    ['Femenino', 133],
+    ['Masculino', 127]
+  ],
+  opcionesinvestigadoresconicetsegungenero: {
+    title: 'Investigadores CONICET'
+  },
+  investigadoresunsamsegungenero: [
+    ['Investigadores UNSAM', 'Cantidad'],
+    ['Femenino', 110],
+    ['Masculino', 136]
+  ],
+  opcionesinvestigadoresunsamsegungenero: {
+    title: 'Investigadores UNSAM'
   }
 }
