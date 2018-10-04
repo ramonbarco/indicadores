@@ -98,5 +98,36 @@ export const data = {
     height: 400,
     width: 600,
     isStacked: true
+  },
+  articulosenrevistasinternacionalesconreferatototalesyporunidadacademica: [
+    ['UA', 'Total por unidad académica'],
+    ['ECYT', 298],
+    ['EEYN', 6],
+    ['EH', 35],
+    ['EPYG', 24],
+    ['IDAES', 60],
+    ['IECJ', 0],
+    ['INS', 42],
+    ['IA', 0],
+    ['IAMK', 0],
+    ['3IA', 196],
+    ['IDB', 0],
+    ['UIS', 0],
+    ['INCALIN', 0],
+    ['IIB INTECH', 428],
+    ['ITS', 50],
+    ['ICRM', 0],
+    ['IIPC', 16],
+    ['IT', 0],
+    ['ITEDA', 48],
+    ['COLOMB', 0]
+  ],
+  opcionesarticulosenrevistasinternacionalesconreferatototalesyporunidadacademica: {
+    title: 'Artículos en revistas internacionales con referato',
+    colors: ['#4b8463'],
+    height: 600,
+    width: 800,
+    fontSize: 8.5,
+    bar: { groupWidth: '80%' }
   }
 }
